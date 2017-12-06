@@ -16,6 +16,10 @@ java.nio.charset.Charset#forName()
 java.net.URLStreamHandlerFactory#createURLStreamHandler(String)  
 java.util.EnumSet#of()  
 javax.xml.bind.JAXBContext#createMarshaller()  
+
+Type
+-----  
+Creational Pattern   
   
 Author
 ------
